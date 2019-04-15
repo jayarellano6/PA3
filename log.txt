@@ -1,3 +1,9 @@
+commit b99e98b13ff12d210c0857a47733ca748486036b
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 20:33:33 2019 -0700
+
+    adding log and questions
+
 commit a8f1d95628981e4da0437a3f89278bd7bd22aff8
 Author: jayarellano6 <jaarellano@csumb.edu>
 Date:   Sun Apr 14 20:25:44 2019 -0700
