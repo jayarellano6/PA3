@@ -1,0 +1,83 @@
+commit a8f1d95628981e4da0437a3f89278bd7bd22aff8
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 20:25:44 2019 -0700
+
+    finally got the right IPs after referencing the book
+
+commit ead1916c4290b705f6858a523693077fc1138708
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:37:22 2019 -0700
+
+    testing new IPs again
+
+commit 485e1e64dab94b91594357f5b0fc6272b9dcce6c
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:29:59 2019 -0700
+
+    readding r1.cmd
+
+commit 074edc6a90511a4c3b454ab7e6e10d9149883145
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:27:15 2019 -0700
+
+    trying more IPs
+
+commit 9ec7fa1a4926b5c28b774990dbe605ffba7e040e
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:23:59 2019 -0700
+
+    trying more IPs
+
+commit c616852cb25fa25d84bfc59ff98d5034f9812884
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:21:12 2019 -0700
+
+    added missing libraries
+
+commit 9637a6b8b0cb8f53333cbec944848537d23c2f40
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:12:27 2019 -0700
+
+    fixed small bug / changed IPs
+
+commit bcad5131b3b32ab1f9022e2c56fcb5aa65b30677
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:10:06 2019 -0700
+
+    adding params to links
+
+commit ff850a2ae87c0d5d3501f50f9a707f3c54b2fb8b
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:07:28 2019 -0700
+
+    removing r1.cmd
+
+commit 222ebb3a7aa4a075eff671a55069b4dbb2782c17
+Author: jayarellano6 <jaarellano@csumb.edu>
+Date:   Sun Apr 14 19:03:18 2019 -0700
+
+    noticed after ending the program 'stopping 0 controllers' displays, added code to start controllers
+
+commit f00531646b2e2331fe3719fe03669da8b22d0492
+Author: None <None>
+Date:   Sun Apr 14 18:51:36 2019 -0700
+
+    changing IP addresses again testing
+
+commit 8d0cd4d07301a66df1de5529be126563fcafde5c
+Author: None <None>
+Date:   Sun Apr 14 18:48:53 2019 -0700
+
+    changing IP addresses
+
+commit d10a6e0e6055c4c004142276c27479c9bc1b02a5
+Author: None <None>
+Date:   Sun Apr 14 18:23:48 2019 -0700
+
+    added initial code
+
+commit 5a2b643dbade8389f0fcc343c42f7522192c13a3
+Author: None <None>
+Date:   Sun Apr 14 17:38:19 2019 -0700
+
+    first commit

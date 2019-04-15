@@ -1,0 +1,13 @@
+a. Why didn’t the original program forward packets between the hosts?
+	the IP addresses were not able to ping each other because of r1's ip
+
+b. Is the line ‘ r1.cmd('sysctl -w net.ipv4.ip_forward=1') ’ required?
+	yes
+
+c. Intentionally break your working program, e.g.: change a subnet length, IP
+address, or default route for a host. Explain why your change caused the
+network to break.
+	changing the IP address meant that the host were no longer part of the same subnet
+ 
+
+
