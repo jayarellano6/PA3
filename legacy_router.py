@@ -12,7 +12,7 @@ from mininet.link import TCLink, Intf
 from subprocess import call
 
 def myNetwork():
-	net = Mininet( topo=None, build=False, ipBase='10.20.1.0/24')
+	net = Mininet( topo=None, build=False, ipBase='10.24.1.0/24')
 
 	info( '*** Adding controller\n' )
 	info( '*** Add switches\n')
